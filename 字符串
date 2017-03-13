@@ -1,0 +1,10 @@
+a = "My first test string"
+b = "Another test string that I have defined"
+c = "This is Chen's string"
+d = 'My favorite word is "asparaus", what is yours?'
+math_string = "3+4*2"
+expression_string = "a+' '+b+' tiger'"
+b.split('t')
+math_string.find('*')
+eval(math_string+ '1')
+eval(expression_string)
